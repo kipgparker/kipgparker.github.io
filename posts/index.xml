@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Kip Parker</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on Kip Parker</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; 2021 &lt;a href=&#34;https://www.wangchucheng.com/&#34;&gt;C. Wang&lt;/a&gt; and &lt;a href=&#34;https://www.ruiqima.com/&#34;&gt;R. Ma&lt;/a&gt;
+</copyright>
+    <lastBuildDate>Wed, 31 Mar 2021 13:11:22 +0800</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Towards making language models more agentic</title>
+      <link>/posts/language_models/</link>
+      <pubDate>Wed, 31 Mar 2021 13:11:22 +0800</pubDate>
+      
+      <guid>/posts/language_models/</guid>
+      <description>&lt;p&gt;Framework for thinking about how we can make language models more agentic and useful abstractions&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
